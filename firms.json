@@ -7,8 +7,8 @@
       "couponFieldApplySelector": ".wc-block-components-totals-coupon__button", 
       "discountCode": "SAVE10",
       "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=BLACKFRIDAY2025",
-      "cashbackPercentage": 15,
-      "discountPercentage": 25
+      "cashbackPercentage": 13,
+      "discountPercentage": 15
     },
     {
       "name": "PropFirm2",
@@ -18,7 +18,7 @@
       "discountCode": "PROMO2025",
       "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=EXPA123",
       "cashbackPercentage": 17,
-      "discountPercentage": 15
+      "discountPercentage": 17
     },
      {
       "name": "PropFirm3",
@@ -28,7 +28,7 @@
       "discountCode": "SAVE20",
       "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=BLACKFRIDAY2025",
       "cashbackPercentage": 25,
-      "discountPercentage": 30
+      "discountPercentage": 26
     }
   ]
 }
