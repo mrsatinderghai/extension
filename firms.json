@@ -1,0 +1,34 @@
+{
+  "firms": [
+    {
+      "name": "PropFirm1",
+      "triggerDomains": ["checkout.propfirm1.com", "yellowgreen-crane-450646.hostingersite.com"],
+      "couponFieldSelector": "#wc-block-components-totals-coupon__input-coupon",
+      "couponFieldApplySelector": ".wc-block-components-totals-coupon__button", 
+      "discountCode": "SAVE10",
+      "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=BLACKFRIDAY2025",
+      "cashbackPercentage": 5,
+      "discountPercentage": 20
+    },
+    {
+      "name": "PropFirm2",
+      "domains": ["expandimo.com"],
+      "couponFieldSelector": "input[name='promo']",
+      "couponFieldApplySelector": "", 
+      "discountCode": "PROMO2025",
+      "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=EXPA123",
+      "cashbackPercentage": 8,
+      "discountPercentage": 25
+    },
+     {
+      "name": "PropFirm3",
+      "triggerDomains": ["checkout.blueguardian.com"],
+      "couponFieldSelector": "#coupon_code",
+      "couponFieldApplySelector": ".coupon-form button.default-btn", 
+      "discountCode": "SAVE20",
+      "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=BLACKFRIDAY2025",
+      "cashbackPercentage": 20,
+      "discountPercentage": 20
+    }
+  ]
+}
