@@ -2,7 +2,7 @@
   "firms": [
     {
       "name": "PropFirm1",
-      "triggerDomains": ["checkout.propfirm1.com", "yellowgreen-crane-450646.hostingersite.com"],
+      "triggerDomains": ["checkout.propfirm1.com", "yellowgreen-crane-450646.hostingersite.com/checkout/"],
       "couponFieldSelector": "#wc-block-components-totals-coupon__input-coupon",
       "couponFieldApplySelector": ".wc-block-components-totals-coupon__button", 
       "discountCode": "SAVE10",
