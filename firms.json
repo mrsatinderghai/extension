@@ -19,16 +19,6 @@
       "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=EXPA123",
       "cashbackPercentage": 16,
       "discountPercentage": 17
-    },
-     {
-      "name": "PropFirm3",
-      "triggerDomains": ["checkout.blueguardian.com"],
-      "couponFieldSelector": "#coupon_code",
-      "couponFieldApplySelector": ".coupon-form button.default-btn", 
-      "discountCode": "SAVE20",
-      "affiliateUrl": "https://orange-squid-519991.hostingersite.com/handler.php?coupon=BLACKFRIDAY2025",
-      "cashbackPercentage": 25,
-      "discountPercentage": 26
     }
   ]
 }
